@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 Built-By: alex
 Created-By: Apache Maven 3.3.9
 Build-Jdk: 1.8.0_191
-Main-Class: com.alex.gomoku.Main
+Main-Class: com.alex.Main
 

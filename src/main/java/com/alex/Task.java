@@ -1,4 +1,4 @@
-package com.alex.gomoku;
+package com.alex;
 
 public interface Task {
 

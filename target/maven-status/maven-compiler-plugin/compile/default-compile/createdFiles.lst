@@ -1,1 +1,4 @@
 com/alex/gomoku/Task.class
+com/alex/gomoku/DbStudentProvider.class
+com/alex/gomoku/StudentProvider.class
+com/alex/gomoku/Student.class

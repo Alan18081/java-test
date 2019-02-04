@@ -30,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.alex.gomoku.Main</mainClass>
+                            <mainClass>com.alex.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
